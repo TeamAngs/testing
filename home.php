@@ -2,7 +2,7 @@
 <head>
     <title> Welcom To my Browse </title>
 </head>
-<body>
+<body> 
 
     <h1> Welcome User </h1>
         
